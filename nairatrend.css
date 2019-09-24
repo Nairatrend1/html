@@ -1,0 +1,15 @@
+body {background-color: teal}
+div.a {text-align: center;}
+form.a {text-align: right;}
+button.a {background-color: seagreen;width: 10%;padding: 10px;border-radius: 10px;}
+form.b {text-align: right;}
+input {width: 50%;padding: 10px;border-radius: 10px;}
+button {background-color: seagreen;width: 10%;padding: 10px;border-radius: 10px;}
+div.b {text-align: center;background-color: papayawhip;padding: 10px;border-radius: 10px;}
+div.c {text-align: center;background-color: papayawhip;padding: 10px;border-radius: 10px;}
+div.d {text-align: center; background-color: papayawhip;padding: 10px;border-radius: 10px;}
+a {color: black;border-radius: 10px;}
+a:hover {background: aqua;color: blue;}
+a:visited {background: orange;color: darkgreen;}
+div.e {text-align: center;background-color: papayawhip;padding: 50px;border-radius: 10px;}
+div.f {text-align: center;}
